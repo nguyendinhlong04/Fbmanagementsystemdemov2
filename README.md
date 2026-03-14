@@ -1,5 +1,5 @@
 
-  # Restaurant Operations UI Redesign
+  # Smart F&B Management System
 
   This is a code bundle for Restaurant Operations UI Redesign. The original project is available at https://www.figma.com/design/msAlbAYfWHvPWU3BR7PIg7/Restaurant-Operations-UI-Redesign.
 
